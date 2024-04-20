@@ -1,2 +1,2 @@
 # leetcode-notes
-My leetcode problem notes.
+My leetcode problem notes
